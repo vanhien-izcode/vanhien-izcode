@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
+ 🌍 I'm based in **Vietnamese** 
  
  🔭 I’m  working on the **national cybersecurity system**
 
