@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://scontent.fbmv1-1.fna.fbcdn.net/v/t39.30808-6/441031625_309570482187669_1199931949879054448_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGxGWbIICXaUmxs4cGEl7wqm35OikuoxWubfk6KS6jFa3IqcwAoSpONDxslGdk2Sc7OuDZY7vcKrP82NzvGgA3k&_nc_ohc=HXCzzxaiYekQ7kNvgHzjfhz&_nc_ht=scontent.fbmv1-1.fna&oh=00_AYAeFv7J2sgsLn_JsgyxDOplkkbcUY_27VXDzsE-RcwOIg&oe=664F1789"> </div>
+<div align="center"> <img src="https://scontent.fbmv1-1.fna.fbcdn.net/v/t39.30808-6/441331571_314806604997390_6552078297500912627_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFJFxqzaFJHt_S5vHaXN7QdsksCndpkBQSySwKd2mQFBLWgNWC-HvYHQo6whAOzSGZ7b19C1I_TDSqOmA1ddPrt&_nc_ohc=gHaVMVaLyZUQ7kNvgEPz_Dw&_nc_ht=scontent.fbmv1-1.fna&oh=00_AYAyAtIovowrsXKBVH7iAS46BkZyWvh7Qg4Epnt08fVDVA&oe=664F544A"> </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Van+Hien+Izcode!;" />
@@ -46,10 +46,17 @@
   <a href="#" title="izcode">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vanhien-izcode&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+    
+  
+   
+ 
 </div>
+ <a href="#" title="izcode">
+       <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhien-izcode&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+   </a>
 
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
+  
